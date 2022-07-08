@@ -1,0 +1,23 @@
+.flex-container {
+    display: flex;
+    flex-direction:row;
+}
+
+.item {
+    background-color: rgb(88, 171, 248);
+    border-color: rgb(6, 8, 170);
+    margin:6px;
+    height: 120px;
+}
+
+.item:nth-of-type(1){
+width: 100px;
+}
+
+.item:nth-of-type(1){
+    
+}
+
+.item:nth-of-type(1){
+    width: 100px;  
+}
